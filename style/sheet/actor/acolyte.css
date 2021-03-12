@@ -15,13 +15,6 @@
     flex-basis: 32%;
 }
 
-.dark-heresy .acolyte .header .home-world label,
-.dark-heresy .acolyte .header .background label,
-.dark-heresy .acolyte .header .role label,
-.dark-heresy .acolyte .header .elite label {
-    width: 5em;
-}
-
 .dark-heresy .acolyte .header .home-world input,
 .dark-heresy .acolyte .header .background input,
 .dark-heresy .acolyte .header .role input,
